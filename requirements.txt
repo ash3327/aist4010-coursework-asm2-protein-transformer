@@ -1,0 +1,12 @@
+# pip3 install -r requirements.txt
+numpy
+matplotlib
+torchvision
+tqdm
+pandas
+scikit-learn
+
+biopython
+transformers
+
+sentencepiece
